@@ -1,12 +1,3 @@
-function sayHello (){
-
-	console.log("hello");
-}
-
-var sayBye = function (){
-
-	console.log("bye");
-}
 
 function sing(tone){
 
@@ -16,4 +7,6 @@ function sing(tone){
 function multiply (a, b){
 	return a*b;
 }
+
+alert("Hello Josh Git is a little annoying eh?");
 
